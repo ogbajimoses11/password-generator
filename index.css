@@ -1,0 +1,68 @@
+body {
+    margin: 0px;
+    background: center;
+    font-weight: bold;
+    font-size: large;
+    background-image: url("flower.jpg");
+    background-repeat: no-repeat;
+    background-size: 600px 500px;
+    text-align: center;
+    background-position: center;
+    
+   
+}
+#text1 {
+    color: azure;
+    margin-bottom: 2px;
+    text-shadow: 2px 2px red;
+   
+}
+#text2 {
+    color: whitesmoke;
+    margin-top: 2px;
+    text-shadow: 2px 2px red;
+}
+#line1 {
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    font-size: larger;
+    text-shadow: 2px 2px purple;
+}
+#password {
+    font-weight: bold;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+    margin-bottom: 0px;
+   
+}
+#pass1 {
+    margin-right: 30px;
+    font-weight: bold;
+    font-size: large;
+    padding: 3px 3px;
+    text-align: center;
+}
+#generate {
+    margin-top: 25px;
+    font-weight: bold;
+    font-size: large;
+    padding: 3px 3px;
+}
+#set {
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: large;
+    padding: 3px 3px;
+
+}
+#pass2 {
+    font-weight: bold;
+    font-size: large;
+    padding: 3px 3px;
+    text-align: center; 
+}
